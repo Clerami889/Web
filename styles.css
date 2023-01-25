@@ -1,0 +1,141 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Roboto", serif;
+}
+
+.Atas {
+  background-color: #a5f1e9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.spans {
+  text-decoration: underline;
+}
+.Bawah a {
+  color: #11999e;
+}
+
+hr {
+  border: dotted #e4eaea 6px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.Kontak a {
+  color: #11999e;
+}
+
+p {
+  line-height: 2;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.6rem;
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 2.3rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+  color: #11999e;
+}
+.Cloud1 {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+.Cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.Tengah {
+  margin: 100px;
+  color: #7789a9;
+}
+
+.skill {
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Bawah {
+  background-color: #a5f1e9;
+  padding-top: 50px;
+}
+
+.Bawah a {
+  text-decoration: none;
+
+  padding: 5px;
+}
+.Kaki {
+  margin: 15px 10px 15px 10px;
+  padding-bottom: 10px;
+}
+
+.Feet {
+  margin-bottom: 0;
+  margin-top: 5px;
+  padding-bottom: 15px;
+  color: #6eccaf;
+}
+
+.I1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.I2 {
+  width: 25%;
+  float: right;
+  margin: 30px auto auto 30px;
+}
+
+.Pro1 {
+  width: 20%;
+}
+
+.Kontak {
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+.Tbl {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #67fadd, #25b8b6);
+  background-image: -moz-linear-gradient(top, #67fadd, #25b8b6);
+  background-image: -ms-linear-gradient(top, #67fadd, #25b8b6);
+  background-image: -o-linear-gradient(top, #67fadd, #25b8b6);
+  background-image: linear-gradient(to bottom, #67fadd, #25b8b6);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 0.5rem;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 1rem;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  width: 20%;
+}
+
+.Tbl:hover {
+  background: #62ba97;
+  background-image: -webkit-linear-gradient(top, #62ba97, #6cc0f7);
+  background-image: -moz-linear-gradient(top, #62ba97, #6cc0f7);
+  background-image: -ms-linear-gradient(top, #62ba97, #6cc0f7);
+  background-image: -o-linear-gradient(top, #62ba97, #6cc0f7);
+  background-image: linear-gradient(to bottom, #62ba97, #6cc0f7);
+  text-decoration: none;
+}
